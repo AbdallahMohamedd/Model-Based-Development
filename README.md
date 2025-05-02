@@ -93,6 +93,6 @@ This diploma gives you practical tools and a complete workflow to simulate, test
 
 - **Instructor:** OS Academy  
 - **Student:** Abdullah Mohamed  
-- **Repository Maintained By:** [YourGitHubUsername](https://github.com/AbdallahMohamedd)
+- **Repository Maintained By:** [Abdullah Mohamed](https://github.com/AbdallahMohamedd)
 
 ---
