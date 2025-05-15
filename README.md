@@ -18,8 +18,8 @@ To prepare engineers for the industry-standard **Model-Based Design (MBD)** work
 
 | Section | Title | Progress | Duration | Description |
 |--------|-------|----------|----------|-------------|
-| 1 | Model-Based Design Concepts | ⏳ 0/16 | 1h 49m | Introduction to the fundamentals of MBD, benefits, and how it's used in industry. |
-| 2 | MATLAB Basics Module | ⏳ 0/24 | 8h 9m | A full tour through MATLAB scripting, variables, plotting, and essential functions. |
+| 1 | Model-Based Design Concepts | ✅ 16/16 | 1h 49m | Introduction to the fundamentals of MBD, benefits, and how it's used in industry. |
+| 2 | MATLAB Basics Module | 🔄 16/24 | 8h 9m | A full tour through MATLAB scripting, variables, plotting, and essential functions. |
 | 3 | MATLAB Basics Solutions (Quiz & Labs) | ⏳ 0/3 | 3h 55m | Practice sessions and hands-on labs to reinforce MATLAB basics. |
 | 4 | Simulink Basics Module | ⏳ 0/20 | 8h 58m | Covers Simulink environment, blocks, simulation settings, and modeling simple systems. |
 | 5 | Simulink Basics Solutions (Lab & Quiz) | ⏳ 0/3 | 4h 31m | Applied labs and quizzes to strengthen Simulink concepts. |
