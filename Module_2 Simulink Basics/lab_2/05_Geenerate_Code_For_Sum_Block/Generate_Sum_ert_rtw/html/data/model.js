@@ -1,0 +1,1 @@
+var modelInfo = {model:"Generate_Sum"};var modelHierarchy=[{model:"Generate_Sum",relativePath:"_internal.html",parent:"null"},];var AddCode = true;var ProtectedModel = false;
