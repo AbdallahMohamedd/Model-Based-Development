@@ -20,11 +20,11 @@ To prepare engineers for the industry-standard **Model-Based Design (MBD)** work
 |--------|-------|----------|----------|-------------|
 | 1 | Model-Based Design Concepts | ✅16/16 | 1h 49m | Introduction to the fundamentals of MBD, benefits, and how it's used in industry. |
 | 2 | MATLAB Basics Module | ✅24/24 | 8h 9m | A full tour through MATLAB scripting, variables, plotting, and essential functions. |
-| 3 | MATLAB Basics Solutions (Quiz & Labs) | ⏳ 0/3 | 3h 55m | Practice sessions and hands-on labs to reinforce MATLAB basics. |
-| 4 | Simulink Basics Module | ⏳ 0/20 | 8h 58m | Covers Simulink environment, blocks, simulation settings, and modeling simple systems. |
-| 5 | Simulink Basics Solutions (Lab & Quiz) | ⏳ 0/3 | 4h 31m | Applied labs and quizzes to strengthen Simulink concepts. |
+| 3 | MATLAB Basics Solutions (Quiz & Labs) | ✅ 3/3 | 3h 55m | Practice sessions and hands-on labs to reinforce MATLAB basics. |
+| 4 | Simulink Basics Module | ✅ 20/20 | 8h 58m | Covers Simulink environment, blocks, simulation settings, and modeling simple systems. |
+| 5 | Simulink Basics Solutions (Lab & Quiz) | ✅ 3/3 | 4h 31m | Applied labs and quizzes to strengthen Simulink concepts. |
 | 6 | Arduino Simulink Interface | ⏳ 0/24 | 5h 47m | Interfacing Simulink with Arduino for real-time implementation and hardware-in-the-loop. |
-| 7 | PID Controller Design Module | ⏳ 0/27 | 15h 13m | Understanding, tuning, and implementing PID controllers in Simulink and real systems. |
+| 7 | PID Controller Design Module | ⏳ 6/27 | 15h 13m | Understanding, tuning, and implementing PID controllers in Simulink and real systems. |
 | 8 | MATLAB Scripting Module | ⏳ 0/28 | 8h | Advanced scripting techniques for automation, plotting, and data processing. |
 | 9 | System Modeling Module | ⏳ 0/20 | 5h 53m | Techniques for mathematical modeling and simulation of physical systems. |
 | 10 | Model Architecture | ⏳ 0/15 | 4h 5m | Best practices for large model organization, reusability, and scalability. |
