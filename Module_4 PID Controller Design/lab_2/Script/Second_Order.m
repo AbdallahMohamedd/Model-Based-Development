@@ -20,3 +20,4 @@ for zeta = 0.25:0.25:1.5
     title('step response of a second-order system with varying damping ratios (zeta).');
 end
 clc
+    G = tf(num, den) % Transfer function
