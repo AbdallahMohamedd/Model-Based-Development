@@ -1,0 +1,25 @@
+/*
+ * File: rtmodel.h
+ *
+ * Code generated for Simulink model 'Open_Loop'.
+ *
+ * Model version                  : 1.0
+ * Simulink Coder version         : 24.2 (R2024b) 21-Jun-2024
+ * C/C++ source code generated on : Sun Jun 29 19:45:32 2025
+ *
+ * Target selection: ert.tlc
+ * Embedded hardware selection: Atmel->AVR
+ * Code generation objectives: Unspecified
+ * Validation result: Not run
+ */
+
+#ifndef rtmodel_h_
+#define rtmodel_h_
+#include "Open_Loop.h"
+#endif                                 /* rtmodel_h_ */
+
+/*
+ * File trailer for generated code.
+ *
+ * [EOF]
+ */
