@@ -36,7 +36,7 @@ Run Create_GUI_model_or_subsys.m in MATLAB. The main menu will appear with three
 1. Select option `1`
 2. Enter desired model name when prompted
 3. Model will be created and opened automatically
-
+   
 ### Adding a Subsystem
 1. Select option `2`
 2. Enter the name of an existing model
