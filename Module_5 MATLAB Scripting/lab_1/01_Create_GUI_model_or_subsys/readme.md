@@ -78,15 +78,3 @@ Module_5 MATLAB Scripting/
 ## Author
 
 Abdullah Mohamed Ibrahim
-
-## Demo Video
-<!-- Add your video demonstration link below -->
-Watch the demo video
-
-## License
-
-[Add your license information here]
-
-## Contributing
-
-[Add contribution guidelines if applicable]
